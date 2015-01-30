@@ -1,0 +1,5 @@
+/Users/zhengyuxi/Projects/APSP.JPush.IOS/obj/Debug/MonoTouch,Version=v1.0.AssemblyAttribute.cs
+/Users/zhengyuxi/Projects/APSP.JPush.IOS/bin/Debug/APSP.JPush.IOS.dll.mdb
+/Users/zhengyuxi/Projects/APSP.JPush.IOS/bin/Debug/APSP.JPush.IOS.dll
+/Users/zhengyuxi/Projects/APSP.JPush.IOS/obj/Debug/APSP.JPush.IOS.dll
+/Users/zhengyuxi/Projects/APSP.JPush.IOS/obj/Debug/APSP.JPush.IOS.dll.mdb
